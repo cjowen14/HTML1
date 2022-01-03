@@ -1,0 +1,50 @@
+* {
+    text-align: center;
+    background-image: url("https://ipack.info/wp-content/uploads/2015/11/star-sky-video-background.jpg") ;
+    color: white;
+}
+
+h1 {
+    font-size: 75px;
+    color: gold;
+}
+
+img{
+    height: 40%;
+    width: 40%;
+}
+
+
+div > img{
+    height: 25%;
+    width: 25%;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+p{
+    font-size: 6vh;
+}
+
+h2{
+    font-size: 40px;
+    text-decoration: underline;
+    color: gold;
+    margin-top: 150px;
+    
+}
+
+h2 > a{
+    color: gold;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+div > p{
+    font-size: 3vh;
+    margin: 0;
+}
+
+footer{
+    margin-top: 300px;
+}
